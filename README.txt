@@ -62,6 +62,9 @@ haber recibido un destructor valido, lo llama con cada elemento del arbol, sin e
 ---------------------------------------------------------------------------------
 
 COMPILACION
+
+[SOLO CORRE DE MANERA CORRECTA EN UNA TERMINAL DE LINUX QUE TENGA GCC, MAKEFILE Y VALGRIND INSTALADOS]
+
 Para la compilacion de las pruebas del arbol se brinda un archivo Makefile cuyos
 comandos por terminal son:
 
